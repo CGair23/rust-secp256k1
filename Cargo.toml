@@ -20,7 +20,7 @@ cc = "1.0.45"
 cfg-if = "0.1.10"
 
 [lib]
-name = "secp256k1"
+name = "parity_secp256k1"
 path = "src/lib.rs"
 
 [features]
